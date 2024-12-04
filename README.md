@@ -1,0 +1,2 @@
+# Comprehensive object detection program
+ This is a complete set of applications for object location models based on convolutional neural networks. Users can use a simple crawler to crawl images from a web page. After regularizing and normalizing image data, such as size, the program will allow users to label the image data, and then use DIY test data to train the model. After all the training is complete, the user can test the model with other images
